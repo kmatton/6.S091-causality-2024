@@ -48,7 +48,7 @@ We will have study sessions on Wednesdays (time and location will be announced i
 
 ### Problem Sets
 - Problem sets must be done in LaTeX
-- Printed problem sets must be turned in at the beginning of lecture.
+- Problem sets will be submitted using a Google Form; the links will be posted below for each problem set.
 - Due dates:
 \
 **Thursday, Jan 18**: PSet 1 due at 3pm EST
