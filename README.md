@@ -6,46 +6,43 @@ The official syllabus is at [https://github.com/kmatton/6.S091-causality/blob/ma
 Lecture notes will be posted on this page. See a previously-offered version of the class [here](https://github.com/csquires/6.S091-causality).
 
 ### Details
-**Instructor**: Katie Matton, Chandler Squires, Jiaqi Zhang
+**Instructors**: Katie Matton (kmatton@mit.edu), Chandler Squires (csquires@mit.edu), Jiaqi Zhang (viczhang@mit.edu)
 \
-**Time**: Tuesday and Thursday, 3-4:30pm
+**TA**: Abhinav Kumar (akumar03@mit.edu)
+\
+**Time**: Tuesday and Thursday, 3:05 - 4:25pm
 \
 **Dates**: 01/09/24 - 02/01/24
 \
-**Location**: 4-231
+**Location**: 24-115
 \
 **Credit**: 6 units
 
 ### Description
 
-In this course, we will cover introductory material from three active research areas related to 
-causality and machine learning. In the first third of the course, we will discuss the fundamentals 
-of policy evaluation, where a known causal structure is used to estimate causal quantities such as 
-(conditional) average treatment effects. In this section, we will cover algorithms for identification 
-of causal estimands, as well the principles behind state-of-the-art estimation methods based on 
-double/de-biased machine learning. In the second third of the course, we will consider causal 
-structure learning, i.e., the estimation of an unknown causal structure from data. We will cover 
-classical algorithms such as the PC algorithm, as well as newer methods which incorporate interventional 
-data and allow for unobserved confounding. We will also cover experimental design techniques for causal 
-structure learning. In the final third of the course, we will discuss the emerging field of causal 
-representation learning, highlighting recent papers which connect machine learning with more traditional 
-causal principles.
+In this course, we will cover a selection of foundational topics in causality, as well as more recent topics
+at the intersection of causality and machine learning. Two lectures will cover recent papers illustrating how
+these topics are relevant to active areas of research.
+
+In the **first section** of the course, we will discuss the identification of treatment effects, where a causal
+model of a system is given, and then used to derive estimators for causal quantities such as (conditional)
+average treatment effects. In the **second section** of the course, we will consider causal structure learning,
+i.e., the estimation of an unknown causal structure from data. We will discuss limitations on the identifi-
+ability of such structure from only observational data, algorithms for learning the structure for data, and
+experimental design algorithms for learning structure using interventions. In the **final section** of the course,
+we will discuss topics at the intersection of causality and machine learning, demonstrating how ideas from
+causality can help to address open problems in machine learning such as out-of-distribution generalization.
 
 ### Schedule
 
-**Tuesday, Jan 10**: Introduction to Structural Causal Models ([lecture notes](lecture_notes/Lecture1.pdf), [recording](https://youtu.be/tOguq_esmk8))
-\
-**Thursday, Jan 12**: Policy Evaluation I: Identification ([lecture notes](lecture_notes/Lecture2.pdf), [recording](https://youtu.be/xFaKbeAKLMU))
-\
-**Tuesday, Jan 17**: Policy Evaluation II: Estimation ([lecture notes](lecture_notes/Lecture3.pdf))
-\
-**Thursday, Jan 19**: Causal Structure Learning I: Identifiability ([lecture notes](lecture_notes/Lecture4.pdf))
-\
-**Tuesday, Jan 24**: Causal Structure Learning II: The PC Algorithm and Greedy Algorithms ([lecture notes](lecture_notes/Lecture5.pdf))
-\
-**Tuesday, Jan 31**: Causal Structure Learning III: Experimental Design ([lecture notes](lecture_notes/Lecture6.pdf))
-\
-**Thursday, Feb 2**: Causal Representation Learning ([lecture notes](lecture_notes/Lecture7.pdf))
+1. **Tuesday, Jan 9**: Introduction to causality and structural causal models
+2. **Thursday, Jan 11**: Treatment effect identification and estimation
+3. **Tuesday, Jan 16**: Causal structure learning
+4. **Thursday, Jan 18**: Seminar style reading group (paper TBD)
+5. **Tuesday, Jan 23**: Experimental design for structure learning
+6. **Thursday, Jan 25**: Causal representation learning
+7. **Tuesday, Jan 30**: Causal machine learning
+8. **Thursday, Jan 30**: Seminar-style reading group (paper TBD)
 
 We will have study sessions on Wednesdays, 5:30-7:30, in 24-307.
 
@@ -54,8 +51,8 @@ We will have study sessions on Wednesdays, 5:30-7:30, in 24-307.
 - Printed problem sets must be turned in at the beginning of lecture.
 - Due dates:
 \
-**Thursday, Jan 19**: PSet 1 due at 1pm EST
+**Thursday, Jan 18**: PSet 1 due at 3pm EST
 \
-**Thursday, Jan 26**: PSet 2 due at 1pm EST
+**Thursday, Jan 25**: PSet 2 due at 3pm EST
 \
-**Friday, Feb 3**: PSet 3 due at 11:59pm EST
+**Friday, Feb 2**: PSet 3 due at 11:59pm EST
