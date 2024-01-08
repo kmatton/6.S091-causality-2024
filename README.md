@@ -42,7 +42,7 @@ causality can help to address open problems in machine learning such as out-of-d
 5. **Tuesday, Jan 23**: Experimental design for structure learning
 6. **Thursday, Jan 25**: Causal representation learning
 7. **Tuesday, Jan 30**: Causal machine learning
-8. **Thursday, Jan 30**: Seminar-style reading group (paper TBD)
+8. **Thursday, Feb 1**: Seminar-style reading group (paper TBD)
 
 We will have study sessions on Wednesdays (time and location will be announced in class).
 
