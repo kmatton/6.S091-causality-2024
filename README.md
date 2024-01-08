@@ -1,18 +1,16 @@
-# 6.S091: Causality
-### Policy Evaluation, Structure Learning, and Representation Learning
+# 6.S091: Topics in Causality
+### IAP 2024
 
-The official syllabus is at [https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf](https://github.com/csquires/6.S091-causality/blob/main/syllabus.pdf).
+The official syllabus is at [https://github.com/kmatton/6.S091-causality/blob/main/syllabus.pdf](https://github.com/kmatton/6.S091-causality/blob/main/syllabus.pdf).
 
-Lecture notes will be posted on this page. Recordings are [here](https://www.youtube.com/channel/UC7ilO3m_TDzOXULn7xWV1RQ).
+Lecture notes will be posted on this page. See a previously-offered version of the class [here](https://github.com/csquires/6.S091-causality).
 
 ### Details
-**Instructor**: Chandler Squires
+**Instructor**: Katie Matton, Chandler Squires, Jiaqi Zhang
 \
-**TA**: Katie Matton
+**Time**: Tuesday and Thursday, 3-4:30pm
 \
-**Time**: Tuesday and Thursday, 1-3pm
-\
-**Dates**: 01/10/23 - 02/02/23
+**Dates**: 01/09/24 - 02/01/24
 \
 **Location**: 4-231
 \
