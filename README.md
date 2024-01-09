@@ -1,7 +1,7 @@
 # 6.S091: Topics in Causality
 ### IAP 2024
 
-The official syllabus is at [https://github.com/kmatton/6.S091-causality/blob/main/syllabus.pdf](https://github.com/kmatton/6.S091-causality/blob/main/syllabus.pdf).
+The official syllabus is at [https://github.com/kmatton/6.S091-causality-2024/blob/main/syllabus.pdf]([https://github.com/kmatton/6.S091-causality/blob/main/syllabus.pdf](https://github.com/kmatton/6.S091-causality-2024/blob/main/syllabus.pdf).
 
 Lecture notes will be posted on this page. See a previously-offered version of the class [here](https://github.com/csquires/6.S091-causality).
 
