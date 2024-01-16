@@ -44,7 +44,8 @@ causality can help to address open problems in machine learning such as out-of-d
 7. **Tuesday, Jan 30**: Causal machine learning
 8. **Thursday, Feb 1**: Seminar-style reading group (paper TBD)
 
-We will have study sessions on Wednesdays (time and location will be announced in class).
+We will have study sessions on Wednesdays. The first session is on Wednesday, Jan 17 from 5:30-7:30pm in 24-115. The time and location for other sessions will be announced in class.
+
 
 ### Problem Sets
 - Problem sets must be done in LaTeX
