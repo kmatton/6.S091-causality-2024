@@ -38,13 +38,14 @@ causality can help to address open problems in machine learning such as out-of-d
 1. **Tuesday, Jan 9**: Introduction to causality and structural causal models
 2. **Thursday, Jan 11**: Treatment effect identification and estimation
 3. **Tuesday, Jan 16**: Causal structure learning
-4. **Thursday, Jan 18**: Seminar style reading group (paper TBD)
+4. **Thursday, Jan 18**: Seminar style reading group (paper: [DAGs with NO TEARS](https://arxiv.org/pdf/1803.01422.pdf))
 5. **Tuesday, Jan 23**: Experimental design for structure learning
 6. **Thursday, Jan 25**: Causal representation learning
 7. **Tuesday, Jan 30**: Causal machine learning
 8. **Thursday, Feb 1**: Seminar-style reading group (paper TBD)
 
-We will have study sessions on Wednesdays (time and location will be announced in class).
+We will have study sessions on Wednesdays. The first session is on Wednesday, Jan 17 from 5:30-7:30pm in 24-115. The time and location for other sessions will be announced in class.
+
 
 ### Problem Sets
 - Problem sets must be done in LaTeX
