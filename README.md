@@ -51,6 +51,7 @@ We will have study sessions on Wednesdays. The first session is on Wednesday, Ja
 - Problem sets must be done in LaTeX
 - Problem sets will be submitted using a Google Form; the links will be posted below for each problem set.
 - Problem set 1: [assignment](https://github.com/kmatton/6.S091-causality-2024/blob/main/psets/pset1/pset1.pdf), [submission link](bit.ly/causality-iap24-pset1)
+- Problem set 2: [assignment](https://github.com/kmatton/6.S091-causality-2024/tree/main/psets/pset2), [submission link](https://forms.gle/BJsBXqrkzwNtVphT7)
 - Due dates:
 \
 **Thursday, Jan 18**: PSet 1 due at 3pm EST
